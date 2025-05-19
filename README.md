@@ -32,4 +32,4 @@ For the latest, you can use the `<> Code` button in the GitHub repository to cre
 ### python
 
 - Installation of required packages and setup of the configuration. [Set up](python/sk-mcp.ipynb#packages-and-configurations)
-- [Travel Agent with MCP](python/sk-mcp.ipynb#travel-agent-with-mcp): An example of using Semantic Kernel with MCP plugins (Airbnb and Ticketmaster) as tools for travel planning.
+- [Travel Agent with MCP](python/sk-mcp.ipynb#travel-agent-with-mcp): An example of using Semantic Kernel with MCP plugins (Airbnb and Ticketmaster) as tools for travel planning. For the `ticketmaster` mcp server, you need to set up the API key in the `.env` file. You can get one at the [Ticketmaster Developer Portal](https://developer.ticketmaster.com/).
