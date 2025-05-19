@@ -1,0 +1,5 @@
+
+AZURE_OPENAI_DEPLOYMENT=<your-deployment-name>
+AZURE_OPENAI_ENDPOINT=<your-endpoint>
+AZURE_OPENAI_API_KEY=<your-api-key>
+TICKETMASTER_API_KEY=<your-ticketmaster-api-key>

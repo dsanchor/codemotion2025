@@ -1,0 +1,6 @@
+{
+  "model-gpt": "<model>",
+  "model-gptmini": "<model>",
+  "endpoint": "<endpoint>",
+  "apikey": "<apikey>"
+}

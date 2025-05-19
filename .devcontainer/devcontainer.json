@@ -1,0 +1,19 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/dotnet:9.0",
+    "features": {
+        "ghcr.io/devcontainers/features/python:1": {
+            "version": "3.13"
+        },
+        "ghcr.io/devcontainers-contrib/features/jshint:2": {}
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-dotnettools.dotnet-interactive-vscode",
+                "github.copilot",
+                "github.copilot-chat",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    }
+}
